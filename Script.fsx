@@ -1,2 +1,2 @@
-load "HelloF.fs"
+#load "HelloF.fs"
 open HelloF
