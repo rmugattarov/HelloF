@@ -1,2 +1,2 @@
-let s = "Hello"
-printf "%s'\n" s
+let sampleStructTuple = struct (1, 2)
+//let thisWillNotCompile: (int*int) = struct (1, 2)
